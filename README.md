@@ -1,2 +1,1 @@
-# Machine-Learning
-My Machine Learning learning journey with practical implementations of key algorithms and concepts using Python.
+A complete Machine Learning learning repository with practical implementations of regression, classification, clustering, preprocessing, cross-validation, and boosting algorithms using Python.
